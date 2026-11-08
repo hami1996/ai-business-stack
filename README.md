@@ -1,4 +1,4 @@
-# AI Business Stack: 10 Open-Source Repos
+# AI Business Stack: Open-Source Repos
 
 A curated list of open-source GitHub projects for going from an idea to a real AI business. Combine them to build a full ecosystem. Source: a post by @syntaix.ai on Instagram.
 
@@ -26,3 +26,19 @@ A curated list of open-source GitHub projects for going from an idea to a real A
 **Grow:** Marketing Skills, Google Maps Scraper (leads), Frappe CRM (pipeline), Dittofeed (email), Papermark (proposals), Counterscale (analytics)
 
 Check each repo's license before commercial use (Lago is AGPLv3).
+
+## More repos: tools that rival paid software
+
+Source: a post by @get2ai on Instagram.
+
+| Project | What it does | Repo |
+|---------|--------------|------|
+| OpenHands | Autonomous AI coding agent | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) |
+| Langflow | Visual builder for AI workflows and agents | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) |
+| Ollama | Run large language models locally | [ollama/ollama](https://github.com/ollama/ollama) |
+| Free-for-dev | Free tiers of SaaS, PaaS and IaaS for developers | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) |
+| Awesome | The master list of awesome lists | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) |
+| Awesome LLM Apps | Collection of LLM app examples with agents and RAG | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) |
+| Open Design | Open-source alternative to Claude Design | [nexu-io/open-design](https://github.com/nexu-io/open-design) |
+| Awesome MCP Servers | Curated list of MCP servers | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) |
+| Public APIs | Free public APIs for developers | [public-apis/public-apis](https://github.com/public-apis/public-apis) |
